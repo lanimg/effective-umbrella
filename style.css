@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Staatliches&display=swap");
+h1 {
+  font-family: "Staatliches", cursive;
+}
+
+.image-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: flex-start;
+}
